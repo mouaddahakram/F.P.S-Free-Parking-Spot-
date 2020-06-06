@@ -15,7 +15,7 @@ For this project you will the folowing list of equipment :
 Part Name	                             |    Quantity
 -------------------------------------- | ------------- 
 Raspberry Pi 3B+	                     |        2                             
-Ultrasonic Sensors	                   |        6                            
+Ultrasonic Sensors	                   |        6                                
 Android Device	                       |        1
 Bread Board	                           |        4
 TRI LED (Green & Red) + Resistors	     |        1
@@ -27,6 +27,8 @@ Prototype Cars	                       |        4
 Arduino Uno	                           |        2
 LCD Scree 16bits	                     |        1
 Keypad Mambran 4x4	                   |        1
+
+>> **Please refer to the [Technical Report](https://github.com/mouaddahakram/F.P.S-Free-Parking-Spot-/blob/master/Technical%20report%20F.P.S%202.pdf) for more details**
 
 ### Schema of the project
 
