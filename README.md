@@ -1,5 +1,7 @@
 # F.P.S-Free-Parking-Spot-
 
+![logo](https://github.com/mouaddahakram/F.P.S-Free-Parking-Spot-/blob/master/Logo.png)
+
 ## Abstract: 
 
 Students who own cars, sometimes have problems finding a free parking spot inside the campus, making them looking around from a parking lot to another. So, they end up wasting time and fuel while looking. If the Driver has the information about the parking spot, if it’s occupied or not, he will know where to go directly, and by that, he will save time and fuel. 
@@ -26,7 +28,9 @@ Arduino Uno	                           |        2
 LCD Scree 16bits	                     |        1
 Keypad Mambran 4x4	                   |        1
 
+### Schema of the project
 
+![Diagram](https://github.com/mouaddahakram/F.P.S-Free-Parking-Spot-/blob/master/Diagram.jpg)
 
 ## Conclusion:
 
