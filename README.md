@@ -8,8 +8,7 @@ We propose as a solution to this problem, an IoT based system responsible for ga
 
 Part Name	                             |    Quantity
 -------------------------------------- | ------------- 
-Raspberry Pi 3B+	                     |        2
----------------------------------------| -------------                              
+Raspberry Pi 3B+	                     |        2                             
 Ultrasonic Sensors	                   |        6
 ---------------------------------------| -------------                              
 Android Device	                       |        1
